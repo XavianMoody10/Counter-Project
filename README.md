@@ -1,4 +1,5 @@
 # Counter-Project
+Technologies used: HTML, CSS Javascript
 
 What you should see:
 The default counter begins at the number 0.
